@@ -16,9 +16,22 @@ Profissional de dados focado em transformar dados brutos em insights estratégic
 
 ---
 
-## 📌 Projeto em Destaque
+## 📌 Projetos em Destaque
 
-### [📊 RH Analytics Dashboard](https://github.com/DanielMendes-Dados/projeto-rh-analytics)
+### [📊 Financial Analytics Dashboard](https://github.com/DanielMendes-Dados/projeto-financial-analytics)
+
+Dashboard financeiro completo com análise de **DRE**, **Receita**, **Metas** e **Rentabilidade** para empresa de consultoria SAP.
+
+- 🗄️ Modelagem no **SQL Server** com 5 views analíticas cobrindo toda a DRE
+- 📈 Dashboard executivo no **Power BI** com 4 páginas e navegação fluida
+- 🐍 Análise exploratória em **Python** com 5 visualizações matplotlib
+- 🔍 Insight principal: margem líquida de **57,6%** com receita anual na faixa de R$ 5–7 Mi
+
+> _Tecnologias: SQL Server · SSMS · Power BI · Python · pandas · matplotlib · pyodbc_
+
+---
+
+### [👥 RH Analytics Dashboard](https://github.com/DanielMendes-Dados/projeto-rh-analytics)
 
 Dashboard analítico de Recursos Humanos com análise completa de **Turnover**, **Desligamentos** e **Headcount**.
 
