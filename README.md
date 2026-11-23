@@ -18,6 +18,19 @@ Profissional de dados focado em transformar dados brutos em insights estratégic
 
 ## 📌 Projetos em Destaque
 
+### [🛒 Vendas Analytics Dashboard](https://github.com/DanielMendes-Dados/projeto-vendas-analytics)
+
+Dashboard de vendas completo com análise de **Receita YoY**, **Performance de Vendedores**, **Top Produtos** e **Curva ABC**.
+
+- 🗄️ Modelagem no **SQL Server** com 6 views analíticas cobrindo toda a cadeia de vendas
+- 📈 Dashboard executivo no **Power BI** com 4 páginas e navegação via botões
+- 🐍 Análise exploratória em **Python** com 5 visualizações matplotlib
+- 🔍 Insight principal: apenas **1 de 5 vendedores** atingiu a meta em 2024, com **106,3%** de atingimento
+
+> _Tecnologias: SQL Server · SSMS · Power BI · Python · pandas · matplotlib · pyodbc_
+
+---
+
 ### [📊 Financial Analytics Dashboard](https://github.com/DanielMendes-Dados/projeto-financial-analytics)
 
 Dashboard financeiro completo com análise de **DRE**, **Receita**, **Metas** e **Rentabilidade** para empresa de consultoria SAP.
