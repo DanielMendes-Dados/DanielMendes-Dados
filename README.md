@@ -35,10 +35,10 @@ Dashboard de vendas completo com análise de **Receita YoY**, **Performance de V
 
 Dashboard financeiro completo com análise de **DRE**, **Receita**, **Metas** e **Rentabilidade** para empresa de consultoria SAP.
 
-- 🗄️ Modelagem no **SQL Server** com 5 views analíticas cobrindo toda a DRE
+- 🗄️ Modelagem no **SQL Server** com 6 views analíticas cobrindo toda a DRE
 - 📈 Dashboard executivo no **Power BI** com 4 páginas e navegação fluida
 - 🐍 Análise exploratória em **Python** com 5 visualizações matplotlib
-- 🔍 Insight principal: margem líquida de **57,6%** com receita anual na faixa de R$ 5–7 Mi
+- 🔍 Insight principal: receita cresce **11,9% a.a.** e a margem EBIT sobe de **27,5% para 33,5%**, mas a meta nunca é atingida: o problema é a calibração da meta
 
 > _Tecnologias: SQL Server · SSMS · Power BI · Python · pandas · matplotlib · pyodbc_
 
