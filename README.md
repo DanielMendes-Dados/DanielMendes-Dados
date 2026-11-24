@@ -48,16 +48,20 @@ Dashboard financeiro completo com análise de **DRE**, **Receita**, **Metas** e 
 
 Dashboard analítico de Recursos Humanos com análise completa de **Turnover**, **Desligamentos** e **Headcount**.
 
-- 🗄️ Modelagem relacional no **SQL Server** com 4 tabelas e 6 views otimizadas
+- 🗄️ Modelagem relacional no **SQL Server** com 4 tabelas e 7 views analíticas
 - 📈 Dashboard executivo no **Power BI** com 4 páginas e navegação via botões
-- 🐍 Análises complementares em **Python** (Pandas + Matplotlib/Seaborn)
-- 🔍 Insight principal: turnover médio de **24,4%** — acima do benchmark de mercado
+- 🐍 Análises complementares em **Python** com 6 visualizações matplotlib
+- 🔍 Insight principal: o turnover se concentra na base da carreira — **41,7%** entre juniores contra **0%** entre seniores (turnover geral de **24,5%**)
 
-> _Tecnologias: SQL Server · SSMS · Power BI · Python · Pandas · pyodbc_
+> _Tecnologias: SQL Server · SSMS · Power BI · Python · pandas · matplotlib · pyodbc_
 
 ---
 
 ## 📫 Contato
 
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00B4B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://claude.ai/artifact/TMgbaE1TNWBpaj9uPPN8XL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgmendes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielMendes-Dados)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996877727)
+
+📱 +55 (81) 99687-7727
