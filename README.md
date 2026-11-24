@@ -59,7 +59,7 @@ Dashboard analítico de Recursos Humanos com análise completa de **Turnover**, 
 
 ## 📫 Contato
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-00B4B4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://claude.ai/artifact/TMgbaE1TNWBpaj9uPPN8XL)
+[![Portfolio](https://img.shields.io/badge/Portfolio-00B4B4?style=for-the-badge)](https://claude.ai/artifact/TMgbaE1TNWBpaj9uPPN8XL)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danielgmendes/)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanielMendes-Dados)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581996877727)
