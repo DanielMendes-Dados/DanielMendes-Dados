@@ -22,10 +22,10 @@ Profissional de dados focado em transformar dados brutos em insights estratégic
 
 Dashboard de vendas completo com análise de **Receita YoY**, **Performance de Vendedores**, **Top Produtos** e **Curva ABC**.
 
-- 🗄️ Modelagem no **SQL Server** com 6 views analíticas cobrindo toda a cadeia de vendas
+- 🗄️ Modelagem no **SQL Server** com 7 views analíticas cobrindo toda a cadeia de vendas
 - 📈 Dashboard executivo no **Power BI** com 4 páginas e navegação via botões
-- 🐍 Análise exploratória em **Python** com 5 visualizações matplotlib
-- 🔍 Insight principal: apenas **1 de 5 vendedores** atingiu a meta em 2024, com **106,3%** de atingimento
+- 🐍 Análise exploratória em **Python** com 6 visualizações matplotlib
+- 🔍 Insight principal: receita cresce **40%**, mas é concentrada: **1 vendedor gera 55%** e **3 clientes geram 61%** da receita
 
 > _Tecnologias: SQL Server · SSMS · Power BI · Python · pandas · matplotlib · pyodbc_
 
